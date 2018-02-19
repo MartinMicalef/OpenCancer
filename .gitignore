@@ -1,0 +1,9 @@
+inst/doc
+.Rproj.user
+
+# History files
+.Rhistory
+.Rapp.history
+
+bfg-1.12.16.jar
+bfg.jar
