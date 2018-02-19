@@ -1,3 +1,0 @@
-*.csv filter=lfs diff=lfs merge=lfs -text
-vignettes/*.html linguist-documentation
-/*.html linguist-documentation
