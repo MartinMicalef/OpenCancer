@@ -1,8 +1,8 @@
 # == INTERMEDIATE FUNCTION
 
 #' Given a vector, applies LOCF transform to impute missing data and impute first or
-#' last potential missing observations with resp. the first obs. available or the last 
-#' obs. available depending on the fromLast argument chosen in na.locf. 
+#' last potential missing observations with resp. the first obs. available or the last
+#' obs. available depending on the fromLast argument chosen in na.locf.
 #'
 #' @details Intermediate function, do not use
 #' @param x a vector (with NAs)
